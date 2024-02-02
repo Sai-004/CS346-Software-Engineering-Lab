@@ -1,0 +1,12 @@
+c:\users\mssri\documents\visual studio 2010\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+c:\users\mssri\documents\visual studio 2010\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+c:\users\mssri\documents\visual studio 2010\Projects\SelectionSort\SelectionSort\bin\Debug\SelectionSort.xml
+c:\users\mssri\documents\visual studio 2010\Projects\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.Form1.resources
+c:\users\mssri\documents\visual studio 2010\Projects\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.Resources.resources
+c:\users\mssri\documents\visual studio 2010\Projects\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.vbproj.GenerateResource.Cache
+c:\users\mssri\documents\visual studio 2010\Projects\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.exe
+c:\users\mssri\documents\visual studio 2010\Projects\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.xml
+c:\users\mssri\documents\visual studio 2010\Projects\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.pdb
+C:\Users\mssri\Desktop\books\CS345 Software Engineering\CS346-Software-Engineering-Lab\Assignment 1\Milestone 2\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.exe
+C:\Users\mssri\Desktop\books\CS345 Software Engineering\CS346-Software-Engineering-Lab\Assignment 1\Milestone 2\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.xml
+C:\Users\mssri\Desktop\books\CS345 Software Engineering\CS346-Software-Engineering-Lab\Assignment 1\Milestone 2\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.pdb
